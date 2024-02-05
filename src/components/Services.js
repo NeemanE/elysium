@@ -30,7 +30,7 @@ export default function Services() {
                 </h3>
                 <p className="py-4">
                   Experience the freedom to explore at your own pace with
-                  Elysium's car rental service. We are committed to delivering
+                  Doha Trading's car rental service. We are committed to delivering
                   quality service, flexibility, and convenience, allowing you to
                   make the most of your journey, wherever it may take you."
                 </p>
@@ -63,7 +63,7 @@ export default function Services() {
             <dialog id="my_modal_3" className="modal">
               <div className="modal-box">
                 <h3 className="font-bold text-lg">
-                  At Elysium, our limousine service is crafted to add a touch of
+                  At Doha Trading, our limousine service is crafted to add a touch of
                   luxury and sophistication to your special occasions and
                   executive travels. Whether you're celebrating a milestone
                   event, attending a business meeting, or simply desire a
@@ -71,12 +71,12 @@ export default function Services() {
                   limousines awaits.
                 </h3>
                 <p className="py-4">
-                  At Elysium, we understand the importance of punctuality and
+                  At Doha Trading, we understand the importance of punctuality and
                   reliability, and our limousine service reflects those values.
                   Let us elevate your travel experience with unparalleled
                   luxury, impeccable service, and a commitment to exceeding your
                   expectations. For those moments when ordinary transportation
-                  simply won't suffice, trust Elysium for an extraordinary
+                  simply won't suffice, trust Doha Trading for an extraordinary
                   limousine experience."
                 </p>
               </div>
@@ -107,7 +107,7 @@ export default function Services() {
             <dialog id="my_modal_4" className="modal">
               <div className="modal-box">
                 <h3 className="font-bold text-lg">
-                  At Elysium, we take pride in offering exceptional apartment
+                  At Doha Trading, we take pride in offering exceptional apartment
                   rentals tailored to meet your lifestyle and accommodation
                   needs. Whether you're on a short-term business trip, a family
                   vacation, or seeking a comfortable long-term residence, our

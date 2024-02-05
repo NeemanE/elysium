@@ -6,9 +6,9 @@ export default function About() {
           <h1 className="text-2xl text-blue-500 py-4 italic">
             A new way to experience Houston
           </h1>
-          <h2 className="text-5xl font-bold py-4">Welcome to Elysium</h2>
+          <h2 className="text-5xl font-bold py-4">Welcome to Doha Trading</h2>
           <p className="text-3xl font-light py-4">
-            At Elysium, we take pride in providing exceptional services in the
+            At Doha Trading, we take pride in providing exceptional services in the
             realm of transportation and accommodation. With a rich history in
             the industry, we have become a trusted name for individuals seeking
             reliable and convenient options for their travel needs. Whether
@@ -17,7 +17,7 @@ export default function About() {
             service, we have you covered. Our commitment to quality, customer
             satisfaction, and attention to detail sets us apart. At the core of
             our mission is the belief that every journey should be not just a
-            trip, but an experience. Discover the difference with Elysium -
+            trip, but an experience. Discover the difference with Doha Trading -
             where excellence meets every mile and every moment.
           </p>
           <a
